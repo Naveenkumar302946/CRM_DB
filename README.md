@@ -1,4 +1,4 @@
-# Candidate CRM (CRM_DB)
+<img width="1280" height="664" alt="Screenshot 2025-12-04 at 5 35 10 PM" src="https://github.com/user-attachments/assets/18b7132b-45de-48bf-bcf0-73be872d97eb" /># Candidate CRM (CRM_DB)
 
 This project is a simple Candidate Tracking and Management System.
 It allows HR teams to manage candidate details — from sending interview mails to final selection or rejection — all in one place.
@@ -15,6 +15,7 @@ Modern responsive design
 
 
 Technologies Used 💻
+
 Frontend: HTML, CSS, JavaScript
 Backend: Spring Boot (Java)
 Database: MySQL
