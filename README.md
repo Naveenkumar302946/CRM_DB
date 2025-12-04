@@ -1,4 +1,4 @@
-<img width="1280" height="664" alt="Screenshot 2025-12-04 at 5 35 10 PM" src="https://github.com/user-attachments/assets/18b7132b-45de-48bf-bcf0-73be872d97eb" /># Candidate CRM (CRM_DB)
+# Candidate CRM (CRM_DB)
 
 This project is a simple Candidate Tracking and Management System.
 It allows HR teams to manage candidate details — from sending interview mails to final selection or rejection — all in one place.
@@ -41,6 +41,10 @@ Thank you for checking out my project! 🚀
 
 Would you also like me to give a small LICENSE file so your project looks even more complete on GitHub? 📄✨
 (It's optional but recommended.)
+
+<img width="1280" height="664" alt="Screenshot 2025-12-04 at 5 35 10 PM" src="https://github.com/user-attachments/assets/291dbfd2-000b-44fd-8337-17d192d47549" />
+<img width="1280" height="664" alt="Screenshot 2025-12-04 at 5 49 35 PM" src="https://github.com/user-attachments/assets/192742d7-55ba-4577-ae5b-44307c37115c" />
+
 
 
 
