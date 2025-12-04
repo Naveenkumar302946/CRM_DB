@@ -23,7 +23,7 @@ Tools: Git, GitHub, IntelliJ IDEA / Eclipse
 How to Run Locally
 
 Clone the repository
-git clone https://github.com/vijaykumar-project/Candidate_crm.git
+git clone https://github.com/Naveenkumar302946/CRM_DB.git
 Open in your favorite IDE (IntelliJ / Eclipse)
 
 Configure application properties:
